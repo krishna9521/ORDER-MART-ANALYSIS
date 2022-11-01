@@ -4,3 +4,6 @@
 <p>1. Loaded the data into the Power-BI Desktop and executed the data cleaning and modeling activities (including creating measures / calculated columns) as per requirements.</p>
 <p>2. Created the dashboards as per the mockup and then optimize the visuals.<p>
 <p>3. The main concept of this project is to help the sales team to keep track of overall sales, profit, discount, etc.</P> 
+<h4> Tools Used </h4>
+<p>1. POWER-BI</P>
+<p>2. MS EXCEL</P>
